@@ -1,0 +1,58 @@
+(1) 
+what does it mean?
+what is the insight ?
+who are the audiance?
+--------
+(2) 
+bubble chart is used to show relationship between 3 three variabels but here only 2 variables. so its not suitable. 
+suggestion?? 
+
+line chart 
+(or) bar chart
+
+
+(3) figure represent branch average satisfication. 
+  lucy wants industry average
+from Janice Ko to everyone:    5:18 PM
+too many colors
+from Kar Yeong to everyone:    5:18 PM
+no focus
+
+
+(3)  another one 
+
+(4) given yearly average . 
+     2019 only first three quarters but 4th quarters missing 
+	 implecations if we leave it : 
+	 (i) need to indicate the data for Q4 missing 
+	  
+	  (ii) bring the old chaart here and limitations 
+	  Q4 figures are unavailable during the time of analysis 
+ 
+(5) 
+Dont create any chart 
+beriefly mention how to structure it. 
+
+- Scatter plot chart can be used to show the performance 
+- only industry average and Hello Banks score should be highlighted 
+- If the 4th quarter data is still not ready, 
+      Standard deviation on Sample    
+- 
+
+(6) read and fill the three sections 
+
+
+
+
+
+
+analyse the data for the past 
+
+when we did the campaign we moved 2 standard deviation above the previous . 
+
+
+
+ever year link average score 
+
+finally, 
+this will work for us. after every campaign, our score has been increased (or decreased) 

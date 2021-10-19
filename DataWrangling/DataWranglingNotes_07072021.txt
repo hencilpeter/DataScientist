@@ -1,0 +1,13 @@
+Data Wrangling 
+Date : 07-07-2021
+
+Data Cleansing 
+Loading dataframes from different sources 
+  MySQL, CSV , excel and JSON
+  HDFS5 
+Loadig and saving datasets to MySQL 
+Saving and compressing dataframes
+Managing Large dataframes
+  Loading in chunks 
+  Reducing memory footprints 
+  
